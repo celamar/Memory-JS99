@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 70px;
+}
+
+h3 {
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    color:#EA4D3C ;
+}
+
+
+
+h4 {
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    color:#4E9F87 ;
+    font-weight: bold;
+}
+
+
+div.carre{
+    height: 150px;
+    width: 150px;
+    border: 1px   #EA4D3C;
+    border-style: dashed;
+    background-color: none;
+    margin: 30px;
+}
+
+.title{
+    margin-left: 50px;
+}
+
+body{
+    background-image: url("img/6500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    visibility: hidden;
+}
+
+
